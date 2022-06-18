@@ -1,2 +1,2 @@
 # FasterSeg
-Find in the dropouts group.
+Find work in the dropouts organisation.
